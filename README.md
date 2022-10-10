@@ -4,3 +4,7 @@
 Enigma
 
 S-DES
+
+CipherCommunicator
+
+S-DES-ECB, S-DES-CBC
